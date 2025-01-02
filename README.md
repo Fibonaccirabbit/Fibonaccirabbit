@@ -1,4 +1,19 @@
-## Hi there 👋
+## 👋 Hi there 
+😄I am currently pursuing a Master's degree in Computer Technology at Shenzhen University.
+
+🤯Currently mainly engaged in research on computer vision and embodied intelligence, diligently studying CUDA programming.
+
+## 🔥News
++ ***2024.06*** : Our first job is ***cVAN: A Novel Sleep Staging Method via Cross View Alignment Network*** published in JBHI journal
+
+
+## 🖖Skills
+![Static Badge](https://img.shields.io/badge/OpenHarmony-oh) ![Static Badge](https://img.shields.io/badge/cuda-cu) ![Static Badge](https://img.shields.io/badge/pytorch-pt) ![Static Badge](https://img.shields.io/badge/cmake-cm)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fibonaccirabbit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Fibonaccirabbit/Fibonaccirabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
