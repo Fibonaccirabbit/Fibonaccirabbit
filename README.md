@@ -5,7 +5,7 @@
 
 ## 🔥News
 + ***2024.06*** : Our first job is ***cVAN: A Novel Sleep Staging Method via Cross View Alignment Network*** published in JBHI journal
-+ ***2025.07*** : ***MCGA: Hyperspectral Reconstruction via Mixture of Codebooks and Grayscale-Aware Attention***
++ ***2025.04*** : ***MCGA: Hyperspectral Reconstruction via Mixture of Codebooks and Grayscale-Aware Attention***
 
 
 ## 🖖Skills
