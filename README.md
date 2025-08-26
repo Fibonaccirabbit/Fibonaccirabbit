@@ -6,7 +6,7 @@
 ## 🔥News
 + ***2024.06*** : Our first job is ***cVAN: A Novel Sleep Staging Method via Cross View Alignment Network*** published in JBHI journal
 + ***2025.04*** : ***MCGA: Hyperspectral Reconstruction via Mixture of Codebooks and Grayscale-Aware Attention***
-
++ ***2025.08*** ：***MAPF-World: Action World Model for Multi-Agent Path Finding***
 
 ## 🖖Skills
 ![Static Badge](https://img.shields.io/badge/OpenHarmony-oh) ![Static Badge](https://img.shields.io/badge/cuda-cu) ![Static Badge](https://img.shields.io/badge/pytorch-pt) ![Static Badge](https://img.shields.io/badge/cmake-cm)
