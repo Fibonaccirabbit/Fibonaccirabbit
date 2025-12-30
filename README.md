@@ -9,7 +9,7 @@
 + ***2025.08*** : ***MAPF-World: Action World Model for Multi-Agent Path Finding***
 
 ## 🖖Skills
-![Static Badge](https://img.shields.io/badge/ROS) ![Static Badge](https://img.shields.io/badge/cuda-cu) ![Static Badge](https://img.shields.io/badge/pytorch-pt) ![Static Badge](https://img.shields.io/badge/cmake-cm)
+![Static Badge](https://img.shields.io/badge/ROS-blue) ![Static Badge](https://img.shields.io/badge/cuda-cu) ![Static Badge](https://img.shields.io/badge/pytorch-pt) ![Static Badge](https://img.shields.io/badge/cmake-cm)
 
 
 
