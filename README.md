@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-😄I am currently pursuing a Master's degree in Computer Technology at Shenzhen University.
+😄Following Peter Stone's research goal, create complete, robust, autonomous agents that can learn to interact with other intelligent agents in a wide range of complex, dynamic environments.
 
 🤯Currently mainly engaged in research on computer vision and embodied intelligence, diligently studying CUDA programming.
 
@@ -9,7 +9,7 @@
 + ***2025.08*** : ***MAPF-World: Action World Model for Multi-Agent Path Finding***
 
 ## 🖖Skills
-![Static Badge](https://img.shields.io/badge/OpenHarmony-oh) ![Static Badge](https://img.shields.io/badge/cuda-cu) ![Static Badge](https://img.shields.io/badge/pytorch-pt) ![Static Badge](https://img.shields.io/badge/cmake-cm)
+![Static Badge](https://img.shields.io/badge/ROS) ![Static Badge](https://img.shields.io/badge/cuda-cu) ![Static Badge](https://img.shields.io/badge/pytorch-pt) ![Static Badge](https://img.shields.io/badge/cmake-cm)
 
 
 
