@@ -1,35 +1,43 @@
-## 👋 Hi there
+# Zhanjiang Yang
 
-🏠 [My Academic Homepage](https://fibonaccirabbit.github.io)
+Master's student in Computer Science at **Shenzhen University**, based in Shenzhen, China.
 
-😄Following Peter Stone's research goal, create complete, robust, autonomous agents that can learn to interact with other intelligent agents in a wide range of complex, dynamic environments.
+My research focuses on **world models, vision-language navigation, and reinforcement learning for embodied agents**. I also build tools for running and inspecting experiments. Earlier, I worked on sleep staging, hyperspectral reconstruction, and OpenHarmony applications.
 
-🤯Currently mainly engaged in research on computer vision and embodied intelligence, diligently studying CUDA programming.
+**[Academic Homepage](https://fibonaccirabbit.github.io/)** | [Publications](https://fibonaccirabbit.github.io/publications/) | [Blog](https://fibonaccirabbit.github.io/articles/) | [Google Scholar](https://scholar.google.com/citations?user=4PaJ4SkAAAAJ&hl=en) | [Email](mailto:zhanjiangyang3@gmail.com)
 
-## 🔥News
-+ ***2024.06*** : Our first job is ***cVAN: A Novel Sleep Staging Method via Cross View Alignment Network*** published in JBHI journal
-+ ***2025.04*** : ***MCGA: Hyperspectral Reconstruction via Mixture of Codebooks and Grayscale-Aware Attention***
-+ ***2025.08*** : ***MAPF-World: Action World Model for Multi-Agent Path Finding***
+## Selected Publications
 
-## 🖖Skills
-![Static Badge](https://img.shields.io/badge/ROS-blue) ![Static Badge](https://img.shields.io/badge/cuda-cu) ![Static Badge](https://img.shields.io/badge/pytorch-pt) ![Static Badge](https://img.shields.io/badge/cmake-cm)
+- **MAPF-World: Action World Model for Multi-Agent Path Finding**<br>
+  IEEE Robotics and Automation Letters, 2026.<br>
+  [Paper](https://doi.org/10.1109/LRA.2026.3726342) | [arXiv](https://arxiv.org/abs/2508.12087) | [Code](https://github.com/Fibonaccirabbit/MAPF-World)
 
+- **Sparse Latent Action World Model for Vision-Language Navigation**<br>
+  ICANN, 2026.<br>
+  [Paper](https://doi.org/10.1007/978-3-032-38404-1_13)
 
+- **MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**<br>
+  ICIC, 2026.<br>
+  [Paper](https://doi.org/10.1007/978-981-92-3513-1_23) | [arXiv](https://arxiv.org/abs/2507.09885) | [Project Materials](https://github.com/Fibonaccirabbit/MCGA)
 
+- **cVAN: A Novel Sleep Staging Method via Cross-View Alignment Network**<br>
+  IEEE Journal of Biomedical and Health Informatics, 2025 (online 2024).<br>
+  [Paper](https://doi.org/10.1109/JBHI.2024.3413081) | [Code](https://github.com/Fibonaccirabbit/cVAN)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fibonaccirabbit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[Full publication list](https://fibonaccirabbit.github.io/publications/)
 
-<!--
-**Fibonaccirabbit/Fibonaccirabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open-Source Experiments
 
-Here are some ideas to get you started:
+- **[Jev-MAPF](https://github.com/Fibonaccirabbit/Jev-MAPF)**: A workbench for testing LLM-based multi-agent path finding, with per-agent decisions, cooperative planning, and replay.
+- **[dimOS Go2 / macOS](https://github.com/Fibonaccirabbit/dimos-go2)**: My experimental fork of [dimOS](https://github.com/dimensionalOS/dimos), adding macOS and Go2 adaptations. Simulation has been tested; real-Go2 work is currently limited to sensing, mapping, and path preview, not closed-loop navigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notes & Blog
+
+I keep experiment records and implementation notes on my [blog](https://fibonaccirabbit.github.io/articles/).
+
+**[Agent OS Day 1: Moving a robot arm with natural-language instructions](https://fibonaccirabbit.github.io/articles/agent-os-day1/)**<br>
+A real-arm test connecting web instructions, live localization, planning, and execution. Includes the recording, failures, and remaining limitations. This was a hover test, not grasping.
+
+---
+
+**Tools I use:** Python, C++, TypeScript, PyTorch, Transformers, Linux, and Docker.
