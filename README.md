@@ -8,6 +8,9 @@ My research focuses on **world models, vision-language navigation, and reinforce
 
 ## Selected Publications
 
+- **FP2: Foundation Pareto Flow Policy for Multi-Objective Reinforcement Learning**<br>
+  Accepted at NeurIPS 2026.
+
 - **MAPF-World: Action World Model for Multi-Agent Path Finding**<br>
   IEEE Robotics and Automation Letters, 2026.<br>
   [Paper](https://doi.org/10.1109/LRA.2026.3726342) | [arXiv](https://arxiv.org/abs/2508.12087) | [Code](https://github.com/Fibonaccirabbit/MAPF-World)
